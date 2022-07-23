@@ -1,0 +1,15 @@
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\bin\Debug\net6.0\Csharp-Working-9-5.exe
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\bin\Debug\net6.0\Csharp-Working-9-5.deps.json
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\bin\Debug\net6.0\Csharp-Working-9-5.runtimeconfig.json
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\bin\Debug\net6.0\Csharp-Working-9-5.dll
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\bin\Debug\net6.0\Csharp-Working-9-5.pdb
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.csproj.AssemblyReference.cache
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.AssemblyInfoInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.AssemblyInfo.cs
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.csproj.CoreCompileInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.dll
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\refint\Csharp-Working-9-5.dll
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.pdb
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\Csharp-Working-9-5.genruntimeconfig.cache
+D:\My Documents\Workshop\Csharp\Csharp-Working-9-5\obj\Debug\net6.0\ref\Csharp-Working-9-5.dll
